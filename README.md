@@ -2,6 +2,13 @@
 
 Este proyecto es una implementación de una interfaz de Instagram utilizando Bootstrap para la maquetación y diseño, así como Font Awesome para iconos. Incluye características como un menú de navegación, un modal para crear una nueva publicación, un menú desplegable de configuración y dos formas de visualizar las imágenes: en cuadrícula y en lista.
 
+### Vista Cuadrícula
+<img src="02_proyecto/imagen_proyecto/vistaCuadricula.png" alt="Vista Cuadrícula" width="500"/>
+
+
+### Vista Vertical
+<img src="02_proyecto/imagen_proyecto/vistaVertical.png" alt="Vista Vertical" width="500"/>
+
 ## Tecnologías Utilizadas
 
 - **HTML5**
